@@ -59,6 +59,3 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
-
-Se precisar de ajustes ou preferir outro estilo, é só avisar! 😊
