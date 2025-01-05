@@ -32,18 +32,16 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 1. Clone este repositório em sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/projeto-bilheterias-inflacao.git
-   cd projeto-bilheterias-inflacao
+   git clone https://github.com/EvertonSFTeixeira/API.git
+   cd API.git
    ```
 
-2. Configure o acesso à API no arquivo `Modulo_Senha.py` (ou outra configuração específica do projeto).
-
-3. Execute o script principal:
+2. Execute o script principal:
    ```bash
    python main.py
    ```
 
-4. O script irá:
+3. O script irá:
    - Fazer a requisição à API para obter os dados de bilheterias.
    - Navegar em um site de inflação usando Selenium e coletar os dados necessários.
    - Ajustar os valores das bilheterias com base nos índices de inflação obtidos.
