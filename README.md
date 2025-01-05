@@ -1,3 +1,5 @@
+![APIs](https://github.com/user-attachments/assets/295677ce-0308-45fc-bd8a-c18f9987f368)
+
 # Atualização de Bilheterias com Base na Inflação
 
 Este projeto foi desenvolvido para obter dados de bilheterias por meio de uma API, realizar uma raspagem de dados para coletar informações sobre a inflação e, em seguida, atualizar os valores das bilheterias ajustando-os de acordo com a inflação.  
